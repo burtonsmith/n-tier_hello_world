@@ -1,0 +1,14 @@
+\\vmware-host\Shared Folders\Desktop\HelloWorld\HelloWorld.Data\obj\Debug\HelloWorld.Data.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\HelloWorld\HelloWorld.Data\bin\Debug\HelloWorld.Data.dll.config
+\\vmware-host\Shared Folders\Desktop\HelloWorld\HelloWorld.Data\bin\Debug\HelloWorld.Data.dll
+\\vmware-host\Shared Folders\Desktop\HelloWorld\HelloWorld.Data\bin\Debug\HelloWorld.Data.pdb
+\\vmware-host\Shared Folders\Desktop\HelloWorld\HelloWorld.Data\bin\Debug\EntityFramework.dll
+\\vmware-host\Shared Folders\Desktop\HelloWorld\HelloWorld.Data\bin\Debug\EntityFramework.SqlServer.dll
+\\vmware-host\Shared Folders\Desktop\HelloWorld\HelloWorld.Data\bin\Debug\HelloWorld.Domain.dll
+\\vmware-host\Shared Folders\Desktop\HelloWorld\HelloWorld.Data\bin\Debug\HelloWorld.Domain.pdb
+\\vmware-host\Shared Folders\Desktop\HelloWorld\HelloWorld.Data\bin\Debug\EntityFramework.xml
+\\vmware-host\Shared Folders\Desktop\HelloWorld\HelloWorld.Data\bin\Debug\EntityFramework.SqlServer.xml
+\\vmware-host\Shared Folders\Desktop\HelloWorld\HelloWorld.Data\obj\Debug\HelloWorld.Data.dll
+\\vmware-host\Shared Folders\Desktop\HelloWorld\HelloWorld.Data\obj\Debug\HelloWorld.Data.pdb
+\\vmware-host\Shared Folders\Desktop\HelloWorld\HelloWorld.Data\obj\Debug\HelloWorld.Data.Migrations.InitialCreation.resources
+\\vmware-host\Shared Folders\Desktop\HelloWorld\HelloWorld.Data\obj\Debug\HelloWorld.Data.csproj.GenerateResource.Cache

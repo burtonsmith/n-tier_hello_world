@@ -1,0 +1,5 @@
+\\vmware-host\Shared Folders\Desktop\HelloWorld\HelloWorld.Domain\bin\Debug\HelloWorld.Domain.dll
+\\vmware-host\Shared Folders\Desktop\HelloWorld\HelloWorld.Domain\bin\Debug\HelloWorld.Domain.pdb
+\\vmware-host\Shared Folders\Desktop\HelloWorld\HelloWorld.Domain\obj\Debug\HelloWorld.Domain.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\HelloWorld\HelloWorld.Domain\obj\Debug\HelloWorld.Domain.dll
+\\vmware-host\Shared Folders\Desktop\HelloWorld\HelloWorld.Domain\obj\Debug\HelloWorld.Domain.pdb
